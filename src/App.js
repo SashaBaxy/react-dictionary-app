@@ -1,3 +1,4 @@
+import React from "react";
 import book from "./book.png";
 import Dictionary from "./Dictionary";
 import "./App.css";
