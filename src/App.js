@@ -1,5 +1,5 @@
 import React from "react";
-import book from "./book.png";
+
 import Dictionary from "./Dictionary";
 import "./App.css";
 
@@ -9,7 +9,6 @@ export default function App() {
             <div className="container">
                 <header className="App-header">
                     <h1>Dictionary</h1>
-                    <img src={book} className="App-logo" alt="book" />
                 </header>
                 <main>
                     <Dictionary />
